@@ -1,8 +1,8 @@
 {
   "firstName" : "Alex",
   "lastName" : "Nguyen",
-  "displayHandle": "Tweet",
-  "age": 24,
+  "displayHandle" : "Tweet",
+  "age" : 24,
   "active" : true,
   "post" : [
     {
