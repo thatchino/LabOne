@@ -1,0 +1,15 @@
+{
+	"name": ["Kylie Jenner", "Drake", "Lebron James", "Ariana Grande", "Robert Downey Jr.", "Kevin Hart"],
+	"occupation": ["rapper", "model", "singer", "actor", "comedian", "basketball player"],
+        "always": ["always", "never", "rarely"],
+        "expecting": ["anticipating", "imagining", "expecting"],
+        "happen": ["annoy", "shock", "irritate", "surprise"],
+        "personal": ["family", "friend", "partner"],
+        "access": ["Click here", "Read this article", "CLICK"],
+        "close":["honest", "reliable", "dependable"],
+        "verb":["Shocker", "Yikes", "Amazing", "Incredible"],
+        "current":["latest", "most recent"],
+        "story":["news", "scoop", "gossip", "word"],
+	"origin": ["#name#, a #occupation# was #always# #expecting# this to #happen# their #personal#. #verb#! #access# to find out the #current# #story# from a #close# source."]
+
+}
